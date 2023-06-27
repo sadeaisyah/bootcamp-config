@@ -79,10 +79,10 @@ bootstrap:
                 idp-source-id: e0e5d74d-89ae-4d8d-a21e-412887da711e
                 idp-source-name: bootcamp-24-prod-admin
               - cdf-group: cdf:all:owner
-                idp-source-id: f871172b-f7f1-4d6c-a91b-0a3bf4bf32c0 # for the AAD Group to be matched to cdf-group
+                idp-source-id: eeaa9a93-13a8-4b5e-bcca-f05d57222b63 # for the AAD Group to be matched to cdf-group
                 idp-source-name: bootcamp-24-prod-all-owner # i.e. bootcamp-01-test-all-owner
               - cdf-group: cdf:all:read
-                idp-source-id: c56cb099-b284-4a7a-91ec-352e04cccad2 # for the AAD Group to be matched to cdf-group
+                idp-source-id: dbb12a07-df2a-4405-8c7b-8720bd581ef5 # for the AAD Group to be matched to cdf-group
                 idp-source-name: bootcamp-24-prod-all-read # i.e. bootcamp-01-test-all-read
               - cdf-group: cdf:uc:001:oee:read
                 idp-source-id: 9e785c1e-cd65-4ddf-b309-5a48791fe577 # for the AAD Group to be matched to cdf-group
