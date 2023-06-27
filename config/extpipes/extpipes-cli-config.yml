@@ -53,7 +53,7 @@ rawdbs:
       dataset-external-id: src:002:opcua:ds
       short-name: opcua
       rawtables:
-          - rawtable-name: datatapoints
+          - rawtable-name: datapoints
             pipelines:
         # source is a short-name identifying the pipeline source being
         # a 'db-extractor (db)', an 'Azure Function (az-func)',
