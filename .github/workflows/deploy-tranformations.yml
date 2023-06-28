@@ -10,7 +10,7 @@ on:
         #branches: [main]
         branches: [none]
         paths:
-            - config/bootstrap/**
+            - config/transformations/**
 
 jobs:
     deploy:
