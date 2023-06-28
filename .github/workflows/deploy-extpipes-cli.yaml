@@ -6,7 +6,7 @@ on:
         branches:
             - main
         paths:
-            - config/bootstrap/**
+            - config/extpipes/**
 
 jobs:
     deploy_extpipes:
